@@ -3,7 +3,7 @@ Bu proje, Biopython kütüphanesini kullanarak bioinformatik veri işleme ve diz
 Biopython Bioinformatics Kod Örneği
 Bu proje, Biopython kütüphanesini kullanarak bioinformatik veri işleme ve dizi manipülasyonu örneklerini içerir.
 
-### Gereksinimler
+#### Gereksinimler
 Bu kod örneğini çalıştırmak için aşağıdaki gereksinimlere ihtiyacınız vardır:
 
 - Python 3.x
@@ -12,18 +12,19 @@ Bu kod örneğini çalıştırmak için aşağıdaki gereksinimlere ihtiyacını
 
 Biopython kütüphanesini yüklemek için aşağıdaki komutu kullanabilirsiniz:
 
-
+​```
 pip install biopython
+​```
 
-
-### Kullanım
+#### Kullanım
 example.fasta dosyasını Biopython ile okuyarak FASTA kayıtlarını yazdırmak için example.fasta dosyasını projenizin ana dizinine ekleyin.
 
 bioinformatics.py dosyasını çalıştırın:
 
--python bioinformatics.py
-
-### Özellikler
+​```
+python bioinformatics.py
+​```
+#### Özellikler
 Bu kod örneği aşağıdaki özellikleri içerir:
 
 - FASTA dosyasını okuma ve kayıtları yazdırma
@@ -33,5 +34,5 @@ Bu kod örneği aşağıdaki özellikleri içerir:
 - Dizi büyüklüğü, tekrar sayısı ve bulma işlemleri
 - Dizi bölmeleri ve boşlukları temizleme
 
-### Katkılar
+#### Katkılar
 Bu projeye katkıda bulunmak isterseniz, lütfen GitHub deposuna bir "Issue" veya "Pull Request" oluşturun. İletişimde kalalım ve geliştirmelere birlikte devam edelim!
